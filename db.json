@@ -1,11 +1,109 @@
 {
-  "posts": [
+  "report": [
     {
       "id": 1,
-      "title": "hello"
+      "details": {
+        "name": "John Doe",
+        "accNo": "00303380",
+        "sex": "M",
+        "patientID": "0000001",
+        "studyDate": "01/01/2018",
+        "age": "25",
+        "refPhy": "Dr. Vijay Kumar",
+        "reviewStamp": "1600475404558"
+      },
+      "analysis": {
+        "nodule": [
+          {
+            "lobe": "Right Upper",
+            "type": "Part-solid",
+            "border": "",
+            "cal": "0",
+            "size": "6.6",
+            "vol": "0.17"
+          },
+          {
+            "lobe": "Left Upper",
+            "type": "Solid",
+            "border": "",
+            "cal": "0",
+            "size": "5.6",
+            "vol": "0.11"
+          },
+          {
+            "lobe": "Left Lower",
+            "type": "",
+            "border": "",
+            "cal": "8",
+            "size": "5.4",
+            "vol": "0.1"
+          }
+        ],
+        "la": [],
+        "ha": []
+      }
+    },
+    {
+      "id": 2,
+      "details": {
+        "name": "Ritesh",
+        "accNo": "00303381",
+        "sex": "M",
+        "patientID": "0000002",
+        "studyDate": "01/01/2018",
+        "age": "27",
+        "refPhy": "Dr. Kapadhia",
+        "reviewStamp": "1600476891392"
+      },
+      "analysis": {
+        "nodule": [
+          {
+            "lobe": "Right Upper",
+            "type": "Part-solid",
+            "border": "",
+            "cal": "0",
+            "size": "6.6",
+            "vol": "0.17"
+          },
+          {
+            "lobe": "Left Upper",
+            "type": "Solid",
+            "border": "",
+            "cal": "0",
+            "size": "5.6",
+            "vol": "0.11"
+          },
+          {
+            "lobe": "Left Lower",
+            "type": "",
+            "border": "",
+            "cal": "8",
+            "size": "5.4",
+            "vol": "0.1"
+          }
+        ],
+        "la": [],
+        "ha": []
+      }
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "analysisInfo": {
+    "nodule": {
+      "lobeList": [
+        "",
+        "Right Upper",
+        "Right Middle",
+        "Right Lower",
+        "Left Upper",
+        "Left Lower"
+      ],
+      "typeList": ["", "Solid", "Part-solid", "Ground-glass"],
+      "borderList": ["", "Smooth", "Properly Defined"]
+    },
+    "la": [],
+    "ha": []
+  },
+  "misc": {
+    "version": "0.1"
   }
 }
