@@ -16,33 +16,39 @@
         "nodule": [
           {
             "title": "Nodule 1",
+            "select": "true",
             "lobe": "Right Upper",
             "type": "Part-solid",
             "border": "",
             "cal": "0",
             "size": "6.6",
             "vol": "0.17",
-            "imgURL": "https://fakeimg.pl/180x180/"
+            "imgURL": "https://fakeimg.pl/180x180/",
+            "risk": "true"
           },
           {
             "title": "Nodule 2",
+            "select": "true",
             "lobe": "Left Upper",
             "type": "Solid",
             "border": "",
             "cal": "0",
             "size": "5.6",
             "vol": "0.11",
-            "imgURL": "https://fakeimg.pl/180x180/"
+            "imgURL": "https://fakeimg.pl/180x180/",
+            "risk": "true"
           },
           {
             "title": "Nodule 3",
+            "select": "true",
             "lobe": "Left Lower",
             "type": "",
             "border": "",
             "cal": "8",
             "size": "5.4",
             "vol": "0.1",
-            "imgURL": "https://fakeimg.pl/180x180/"
+            "imgURL": "https://fakeimg.pl/180x180/",
+            "risk": "true"
           }
         ],
         "la": [],
@@ -65,33 +71,39 @@
         "nodule": [
           {
             "title": "Nodule 1",
+            "select": "true",
             "lobe": "Right Upper",
             "type": "Part-solid",
             "border": "",
             "cal": "0",
             "size": "6.6",
             "vol": "0.17",
-            "imgURL": "https://fakeimg.pl/180x180/"
+            "imgURL": "https://fakeimg.pl/180x180/",
+            "risk": "true"
           },
           {
             "title": "Nodule 2",
+            "select": "true",
             "lobe": "Left Upper",
             "type": "Solid",
             "border": "",
             "cal": "0",
             "size": "5.6",
             "vol": "0.11",
-            "imgURL": "https://fakeimg.pl/180x180/"
+            "imgURL": "https://fakeimg.pl/180x180/",
+            "risk": "true"
           },
           {
             "title": "Nodule 3",
+            "select": "true",
             "lobe": "Left Lower",
             "type": "",
             "border": "",
             "cal": "8",
             "size": "5.4",
             "vol": "0.1",
-            "imgURL": "https://fakeimg.pl/180x180/"
+            "imgURL": "https://fakeimg.pl/180x180/",
+            "risk": "true"
           }
         ],
         "la": [],
