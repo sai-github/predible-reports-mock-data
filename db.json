@@ -124,6 +124,9 @@
     "ha": []
   },
   "misc": {
-    "version": "0.1"
+    "schemaVersion": 0.9,
+    "label": "site",
+    "message": "up",
+    "color": "green"
   }
 }
